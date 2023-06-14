@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/LoginApp/static/css/main.bfc90459.css",
+    "main.js": "/LoginApp/static/js/main.f28558fd.js",
+    "static/media/signup.png": "/LoginApp/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/LoginApp/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/LoginApp/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/LoginApp/static/media/Logo.fd896773ef070a122541fd8722efa10f.svg",
+    "index.html": "/LoginApp/index.html",
+    "main.bfc90459.css.map": "/LoginApp/static/css/main.bfc90459.css.map",
+    "main.f28558fd.js.map": "/LoginApp/static/js/main.f28558fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfc90459.css",
+    "static/js/main.f28558fd.js"
+  ]
+}
